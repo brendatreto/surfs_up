@@ -33,3 +33,6 @@ Three main differences are noteworthy:
 3. There is only a slight difference in the maximum temperatures (85°F in June vs 83°F in December. This might not represent a challenge, on the contrary, it works as an indicator of stability for the business.
 
 ## Summary
+Looking at the information presented above we can confidently say that the diferences in temperature are important to take into consideration. The differences might not affect behaviour significantly, so the business opportunity seems solid, but further analysis is needed.
+- Investors should consider precipitation trends for the months of June and December, since this might also have a significant effect on the behaviours of customers.
+- Consider filtering information by stations. There might be ignificant differences among these, and could be used in favor of making the best decision.
