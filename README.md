@@ -27,7 +27,9 @@ We save these results in a list and created DataFrame to perform the statistical
 
 ![june_temp](https://user-images.githubusercontent.com/22451540/155758079-dc4378e0-fd86-4371-a1be-6905976f101c.PNG) ![dec_temp](https://user-images.githubusercontent.com/22451540/155758154-5a933ac1-86f5-4fd8-bd65-4900bc837a7a.PNG)
 
-
-
+Three main differences are noteworthy:
+1. The average in temperatures has a variation of around 3 degrees (74.9°F in June vs 71.4°F in December)
+2. The minimum temperatures have a greater variation, as it was expected (64°F in June vs 56°F in December). A difference that can have an impact in the behaviour of potential customers.
+3. There is only a slight difference in the maximum temperatures (85°F in June vs 83°F in December. This might not represent a challenge, on the contrary, it works as an indicator of stability for the business.
 
 ## Summary
