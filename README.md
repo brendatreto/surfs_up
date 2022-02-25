@@ -23,11 +23,9 @@ As per our first query, we looked at the temperatures for the month of June and 
 
 We save these results in a list and created DataFrame to perform the statistical analysis and got the following outcomes:
 
-**Fig 1. June statistics**
-![june_temp](https://user-images.githubusercontent.com/22451540/155758079-dc4378e0-fd86-4371-a1be-6905976f101c.PNG)
+**Fig 1. Statistics for the months of June and December**
 
-**Fig 2. December statistics**
-![dec_temp](https://user-images.githubusercontent.com/22451540/155758154-5a933ac1-86f5-4fd8-bd65-4900bc837a7a.PNG)
+![june_temp](https://user-images.githubusercontent.com/22451540/155758079-dc4378e0-fd86-4371-a1be-6905976f101c.PNG) ![dec_temp](https://user-images.githubusercontent.com/22451540/155758154-5a933ac1-86f5-4fd8-bd65-4900bc837a7a.PNG)
 
 
 
